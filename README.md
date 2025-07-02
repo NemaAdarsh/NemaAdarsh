@@ -1,7 +1,3 @@
-###
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/NemaAdarsh/NemaAdarsh/output/snake.svg" alt="Snake animation" />
 
