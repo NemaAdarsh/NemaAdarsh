@@ -13,18 +13,6 @@
 <!-- Spacer -->
 <br><br>
 
-<!-- Connect With Me Section -->
-<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#00ffe1;">🌐 Connect With Me</h2>
-
-<p align="center">
-  <!-- Add your links here if needed -->
-  <a href="https://www.linkedin.com/in/nemaadarsh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nemaadarsh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 <!-- Spacer -->
 <br><br>
@@ -34,10 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemaadarsh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nemaadarsh&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
 
 <!-- GitHub Streak -->
 <p align="center">
