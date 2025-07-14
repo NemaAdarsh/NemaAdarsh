@@ -7,14 +7,14 @@
 
 <br />
 
-<!-- 📊 Language + 🔥 Streak Stats (Row 2 - same height) -->
+<!-- 📊 Language + 🔥 Streak Stats (Row 2 - auto height balance) -->
 <table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemaadarsh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" style="height: 220px;" />
+  <tr valign="top">
+    <td align="center" style="min-width: 300px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemaadarsh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nemaadarsh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="height: 220px;" />
+    <td align="center" style="min-width: 400px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nemaadarsh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
